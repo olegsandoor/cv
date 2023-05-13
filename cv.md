@@ -32,3 +32,9 @@ __Cout << "Hello World":__ _At first glance, it may seem that this is a primitiv
             cout << "Hello World";
             return 0;
         }
+---
+### Courses:
+- HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/quiztest/result.asp) (completed)
+![Лого](duck.jpg)
+- JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
