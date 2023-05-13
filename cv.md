@@ -38,3 +38,7 @@ __Cout << "Hello World":__ _At first glance, it may seem that this is a primitiv
 ![Лого](duck.jpg)
 - JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+---
+### Languages:
+- English - intermediate/Upper-intermediate (according to the online test at ![Лого EFSET](https://a.storyblok.com/f/71234/103x24/da9ab91cbd/efset-logo_black.svg) [www.efset.org](https://www.efset.org/quick-check/take-test/#set15-190/result))
+![Лого](1.jpg)
